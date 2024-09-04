@@ -1,0 +1,6 @@
+@SocietyManagerAPI_HostAddress = http://localhost:5230
+
+GET {{SocietyManagerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
