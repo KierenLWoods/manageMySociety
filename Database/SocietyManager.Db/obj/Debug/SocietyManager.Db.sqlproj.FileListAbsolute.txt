@@ -1,0 +1,9 @@
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/bin/Debug/SocietyManager.Db.dacpac
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/bin/Debug/SocietyManager.Db.dll
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/bin/Debug/SocietyManager.Db.pdb
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/Model.xml
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/refactor.xml
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/postdeploy.sql
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/predeploy.sql
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/SocietyManager.Db.dll
+/Users/kierenwoods/Documents/GolfSocietyManager/manageMySociety/Database/SocietyManager.Db/obj/Debug/SocietyManager.Db.pdb
