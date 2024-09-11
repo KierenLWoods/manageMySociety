@@ -1,5 +1,13 @@
+
+on:
+push:
+    branches:
+      - dev
+ 
  # Job to build and publish the dacpac
-  build:
+              
+              
+   build:
     runs-on: self-hosted
 
     # Steps represent a sequence of tasks that will be executed as part of the job
