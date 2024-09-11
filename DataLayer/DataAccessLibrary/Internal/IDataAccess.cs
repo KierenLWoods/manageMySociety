@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 
 public interface IDataAccess
 {
-    IConfiguration _config { get; set; }
+    IConfiguration _config { get; }
     string GetConnectionString(string name);
 
     Task<IEnumerable<T>> LoadData<T, U>(
