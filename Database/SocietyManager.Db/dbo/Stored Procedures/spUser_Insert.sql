@@ -10,8 +10,8 @@ CREATE PROCEDURE [dbo].[spUser_Insert]
 AS
 begin 
 set nocount on;
-insert into dbo.Users(FirstName,LastName,EmailAddress,this.Password,UserName,Active,IsConfirmed,CreatedDate)
-values (@firstName,@lastName,@emailAddress,@password,@userName,1,0,GetDate());
+insert into dbo.Users(FirstName,LastName,EmailAddress,this.Password,Active,IsConfirmed,CreatedDate)
+values (@firstName,@lastName,@emailAddress,@password,1,0,GetDate());
 Select @UserId = SCOPE_IDENTITY()
 
 end
