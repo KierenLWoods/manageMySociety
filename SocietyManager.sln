@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "DataLa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{442F601C-20DC-4E20-A210-97141042C44A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F96A04EA-00DF-45A5-8F1E-B3035205728E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit", "Unit", "{198B64A5-E1CD-4CD7-82CD-C6B081BBFCD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocietyManager.Unit.Tests", "Tests\Unit\SocietyManager.Unit.Tests\SocietyManager.Unit.Tests.csproj", "{94ADA36D-A829-49C5-BB39-66B66E689788}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,10 @@ Global
 		{8F6AFCFD-BA91-4214-9921-E82CA5E2AE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6AFCFD-BA91-4214-9921-E82CA5E2AE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F6AFCFD-BA91-4214-9921-E82CA5E2AE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94ADA36D-A829-49C5-BB39-66B66E689788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94ADA36D-A829-49C5-BB39-66B66E689788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94ADA36D-A829-49C5-BB39-66B66E689788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94ADA36D-A829-49C5-BB39-66B66E689788}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,5 +44,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{CBBEDCBC-44F8-4C55-A7DD-0C2F703FEDF8} = {C78C7C6B-F9B5-45C7-8BD7-3E71DE268262}
 		{8F6AFCFD-BA91-4214-9921-E82CA5E2AE82} = {E057B410-9B6F-49CD-8435-3BC63B53A1AE}
+		{198B64A5-E1CD-4CD7-82CD-C6B081BBFCD7} = {F96A04EA-00DF-45A5-8F1E-B3035205728E}
+		{94ADA36D-A829-49C5-BB39-66B66E689788} = {198B64A5-E1CD-4CD7-82CD-C6B081BBFCD7}
 	EndGlobalSection
 EndGlobal
